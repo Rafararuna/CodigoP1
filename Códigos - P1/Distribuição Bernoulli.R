@@ -8,7 +8,7 @@ plot(x,y,pch=20) # ou seja, a medida de que x aumenta, maior a probabilidade de 
 X <- matrix(c(rep(1,10),x), nrow = 10) # matriz do modelo
 
 
-# Implementando o Algorítmo Escore de Fisher (AEF):
+# Implementando o Algorítmo Escore de Fisher (AEF): oi
 
 beta <- matrix(0, nrow = 10, ncol = 2) # beta vai guardar as estimativas de b0 e b1 a cada iteração
 epsilon <- numeric() # epsilon vai guardar a medida de diferença quadrática entre as estimativas obtidas para duas iterações sucessivas

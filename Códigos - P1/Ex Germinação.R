@@ -6,7 +6,7 @@ source("https://www.ime.unicamp.br/~cnaber/diag_Bern.r")
 source("https://www.ime.unicamp.br/~cnaber/envel_Binom.r")
 
 
-# Dados sobre germinação
+# Dados sobre germinaçãoo
 
 library(xtable)
 library(plotrix)
